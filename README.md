@@ -6,7 +6,7 @@
 
 
 
-## 思维导图
+## 前言、思维导图
 
 ![Mind Map](./mindmap-auto_gen-v1.svg)
 
